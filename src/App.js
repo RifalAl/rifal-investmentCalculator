@@ -52,7 +52,7 @@ function App() {
       {isError && (
         <Modals
           title="Cannot Submit"
-          message="Please fill every input field before submmit"
+          message="Please fill every input field before submit"
           onClose={cancleErrorHandler}
         />
       )}
