@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/rifal-investmentCalculator/static/css/main.4cdde231.css",
-    "main.js": "/rifal-investmentCalculator/static/js/main.587e38fa.js",
+    "main.css": "/rifal-investmentCalculator/static/css/main.b100e4bc.css",
+    "main.js": "/rifal-investmentCalculator/static/js/main.4f516eb9.js",
     "static/media/icon-al.svg": "/rifal-investmentCalculator/static/media/icon-al.5db365792c03e75f3de8e16cd8e8dce4.svg",
     "index.html": "/rifal-investmentCalculator/index.html",
-    "main.4cdde231.css.map": "/rifal-investmentCalculator/static/css/main.4cdde231.css.map",
-    "main.587e38fa.js.map": "/rifal-investmentCalculator/static/js/main.587e38fa.js.map"
+    "main.b100e4bc.css.map": "/rifal-investmentCalculator/static/css/main.b100e4bc.css.map",
+    "main.4f516eb9.js.map": "/rifal-investmentCalculator/static/js/main.4f516eb9.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cdde231.css",
-    "static/js/main.587e38fa.js"
+    "static/css/main.b100e4bc.css",
+    "static/js/main.4f516eb9.js"
   ]
 }
