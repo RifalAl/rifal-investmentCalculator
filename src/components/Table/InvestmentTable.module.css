@@ -1,0 +1,28 @@
+.overflow {
+  overflow-x: auto;
+}
+
+.result {
+  max-width: 50rem;
+  /* width: 100%; */
+  margin: 2rem auto;
+  padding: 1rem;
+  table-layout: fixed;
+  border-spacing: 1rem;
+  text-align: center;
+}
+
+.result thead {
+  font-size: 0.7rem;
+  color: #f5b077;
+}
+
+.result tbody {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 0.85rem;
+  color: #fff;
+}
+
+.no-data {
+  text-align: center !important;
+}

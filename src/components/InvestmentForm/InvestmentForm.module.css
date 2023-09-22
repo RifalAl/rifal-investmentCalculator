@@ -1,0 +1,24 @@
+.form {
+  padding: 1rem;
+  max-width: 30rem;
+  margin: 2rem auto;
+  border-radius: 4px;
+  background: #250B2F;
+}
+
+.input-group {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 1.5rem;
+}
+
+@media (max-width: 600px) {
+  .input-group{
+    flex-direction: column;
+    gap: 0rem;
+  }
+  .input-group p{
+    margin-top: 7px;
+    margin-bottom: 7px;
+  }
+}
